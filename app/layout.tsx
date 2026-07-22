@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://zhiliang-huixi.busboys-poetic-9llrc.chatgpt.site"),
+  metadataBase: new URL("https://yusheng266186-beep.github.io/zhiliang-huixi/"),
   title: "质量慧析｜高中考试质量分析系统",
   description: "导入考试Excel，查看年级、班级、学科、学生、上线与小题分析并生成报告。",
   icons: { icon: "/favicon.svg" },
